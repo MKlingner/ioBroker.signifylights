@@ -1,10 +1,10 @@
 {
   "common": {
     "name": "signifylights",
-    "version": "0.4.2",
+    "version": "0.4.3",
     "tier": 3,
     "news": {
-      "0.4.2": {
+      "0.4.3": {
         "en": "implement responsive design in config page (thx simatec)",
         "de": "responsive design in config page implementieren (thx simatec)",
         "ru": "реализовать отзывчивый дизайн на странице настройки (thx simatec)",
